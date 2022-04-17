@@ -1,5 +1,5 @@
 {
-    "name": "wen",
+    "name": "wentian",
     "description": "在heroku上部署v2ray",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
